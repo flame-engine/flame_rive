@@ -1,4 +1,4 @@
-# This repostitory has moved to the [Flame monorepo](https://github.com/flame-engine/flame/tree/main/packages/flame_forge2d)
+# This repostitory has moved to the [Flame monorepo](https://github.com/flame-engine/flame/tree/main/packages/flame_rive)
 
 ---
 
